@@ -50,8 +50,7 @@ dependencies:
   shimmer: ^3.0.0
   google_sign_in: ^6.1.5
   google_fonts: ^6.1.0
-  country_state_city: ^0.1.6
-
+  country_state_city_pro:
 
 dev_dependencies:
   flutter_test:
@@ -80,7 +79,6 @@ flutter:
      - assets/logo.png
      - assets/logo-bk.png
      - assets/main_logo.png
-     - assets/google-login.png
     #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

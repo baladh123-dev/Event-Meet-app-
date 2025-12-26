@@ -121,14 +121,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.4"
-  country_state_city:
+  country_state_city_pro:
     dependency: "direct main"
     description:
-      name: country_state_city
-      sha256: "400bf4f455503021d98a1f21eeec41c0aa0d7b2529ea0b07f6799ed3750513c3"
+      name: country_state_city_pro
+      sha256: "22a53349836f8ddb016e1e0f45b26b61f3546ae5257a818b0935a9222ed4b20b"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.6"
+    version: "0.0.6"
   cross_file:
     dependency: transitive
     description:

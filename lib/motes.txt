@@ -1,0 +1,82 @@
+//about app
+Connect ,
+Gather ,
+Discover
+
+//app Name
+EventMeetapp
+
+//package name
+EventMeetapp.event.meet.EventMeet
+
+
+// EventMeet Color Palette - Last 3 Colors
+const Color purple = Color(0xFF9C27B0); // Purple/Magenta
+const Color teal = Color(0xFF26A69A);   // Teal/Turquoise
+const Color green = Color(0xFF66BB6A);  // Green
+// Alternative shades if you need variations:
+const Color purpleDeep = Color(0xFF7B1FA2);
+const Color tealLight = Color(0xFF4DB6AC);
+const Color greenMint = Color(0xFF81C784);
+
+
+//font name
+Poppins = Headings
+Inter = Everything else
+
+
+
+//////////////////////////////////////////
+EventMeet makes it simple to find exciting events happening around you or create your own.
+Whether you're into music festivals, sports meetups, tech conferences, food adventures,
+or casual hangouts - we've got you covered!
+//////////////////////////////////////////
+
+
+
+
+
+
+
+🎉 EventMeet - Connect. Gather. Discover
+Welcome to EventMeet, the ultimate platform for discovering events and connecting with people who share your interests!
+✨ What is EventMeet?
+EventMeet makes it simple to find exciting events happening around you or create your own. Whether you're into music festivals, sports meetups, tech conferences, food adventures, or casual hangouts - we've got you covered!
+🚀 Key Features:
+📍 Discover Local Events
+
+Browse events near your location
+Filter by category, date, and interests
+Never miss out on what's happening around you
+
+🎯 Create Your Own Events
+
+Host your own meetups in minutes
+Invite friends or make it public
+Manage attendees effortlessly
+
+👥 Connect with Like-Minded People
+
+Meet people who share your passions
+Build your social circle
+Make meaningful connections
+
+🔔 Stay Updated
+
+Get notifications for events you're interested in
+Real-time updates from organizers
+Chat with other attendees
+
+🎨 Modern & Intuitive Design
+
+Beautiful, easy-to-use interface
+Seamless navigation
+Built for Gen-Z and everyone who loves experiences
+
+🌟 Why Choose EventMeet?
+
+100% Free to use
+No spam, just real events
+Safe and verified community
+Easy Google Sign-In
+Guest mode available
